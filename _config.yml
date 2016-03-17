@@ -1,0 +1,28 @@
+name: kuniaki
+favicon: null
+layout_spectrum: 0.8148488441947848
+typography_spectrum: 0.5005672024562955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4034706987440586
+  lightness: 0.4790030971635133
+  saturation: 0.27630962594412267
+  rhythmicContrast: 0.9317073747515678
+purpose: []
